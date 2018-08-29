@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=
+comment1.target=WelcomeMenu()
+comment1.text=\r\n\ Initializes\ this\ welcome\ menu.\r\n
+comment2.params=
+comment2.target=void\ paintFrame()
+comment3.params=
+comment3.target=void\ displayMessage()
+comment4.params=
+comment4.target=boolean\ getLoginFile()
+comment5.params=
+comment5.target=void\ createLoginFile()
+numComments=6

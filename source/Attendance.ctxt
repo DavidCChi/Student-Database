@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Attendance()
+comment0.text=\r\n\ Constructs\ a\ new\ attendance\ with\ default\ values.\r\n
+comment1.params=morningStudentCount\ afternoonStudentCount
+comment1.target=Attendance(int[],\ int[])
+comment1.text=\r\n\ Constructs\ a\ new\ attendance\ with\ specified\ values.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDate()
+comment2.text=\r\n\ Returns\ the\ date\ of\ this\ attendance.\r\n\ \r\n\ @return\ the\ date\ of\ this\ attendance\r\n
+comment3.params=
+comment3.target=int[]\ getMorningStudentCount()
+comment3.text=\r\n\ Returns\ the\ morning\ student\ count\ of\ this\ attendance.\r\n\ \r\n\ @return\ the\ morning\ student\ count\r\n
+comment4.params=
+comment4.target=int[]\ getAfternoonStudentCount()
+comment4.text=\r\n\ Returns\ the\ afternoon\ student\ count\ of\ this\ attendance.\r\n\ \r\n\ @return\ the\ afternoon\ student\ count\r\n
+comment5.params=date
+comment5.target=void\ setDate(java.lang.String)
+comment5.text=\r\n\ Sets\ the\ date\ of\ this\ attendance.\r\n\ \r\n\ @param\ date\ the\ new\ date\ of\ this\ attendance.\r\n
+comment6.params=morningStudentCount
+comment6.target=void\ setMorningStudentCount(int[])
+comment6.text=\r\n\ Sets\ the\ morning\ student\ count\ of\ this\ attendance.\r\n\ \r\n\ @param\ morningStudentCount\ the\ new\ morning\ student\ count\ of\ this\ attendance.\r\n
+comment7.params=afternoonStudentCount
+comment7.target=void\ setAfternoonStudentCount(int[])
+comment7.text=\r\n\ Sets\ the\ afternoon\ student\ count\ of\ this\ attendance.\r\n\ \r\n\ @param\ afternoonStudentCount\ the\ new\ afternoon\ student\ count\ of\ this\ attendance.\r\n
+numComments=8

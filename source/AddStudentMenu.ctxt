@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=list\ menu
+comment0.target=AddStudentMenu(java.util.ArrayList,\ MainMenu)
+comment0.text=\r\n\ Initializes\ this\ create\ account\ menu.\r\n
+comment1.params=
+comment1.target=void\ paintFrame()
+numComments=2

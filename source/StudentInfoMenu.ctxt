@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=list\ menu\ studentNumber
+comment0.target=StudentInfoMenu(java.util.ArrayList,\ MainMenu,\ int)
+comment0.text=\r\n\ Initializes\ this\ create\ account\ menu.\r\n
+comment1.params=
+comment1.target=void\ paintFrame()
+comment2.params=studentNumber
+comment2.target=void\ getStudentInfo(int)
+comment3.params=
+comment3.target=void\ checkValidValues()
+numComments=4
